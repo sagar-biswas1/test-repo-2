@@ -1,0 +1,13 @@
+https://www.w3schools.com/cssref/css_selectors.asp
+
+https://www.w3schools.com/css/css_units.asp
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sagar-biswas1/test-repo-2.git
+git push -u origin main
+
+
+ git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
